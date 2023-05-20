@@ -93,8 +93,8 @@ modules:
           version-pattern: AJUST__([\d_]+)\.zip
           url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/AJUST__$version.zip
       - type: archive
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BANCO__20230427_20230427021557.zip
-        sha256: 8db5b0da69a54dede63a5763cd4bcf3f389af5b2c721ef05e8019d56ca00faef
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BANCO__20230520_20230520021617.zip
+        sha256: 6e986ed2ac68da09dbc96a89bf0d0f436d76982b7aff0ffa275a6e6bb434fe74
         strip-components: 2
         x-checker-data:
           type: html
@@ -102,8 +102,8 @@ modules:
           version-pattern: BANCO__([\d_]+)\.zip
           url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BANCO__$version.zip
       - type: archive
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BBENS__20230427_20230427021557.zip
-        sha256: dfb7667ab4e7877370899d26ecbe5df78feef36dda82df1d33980e73af24235a
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BBENS__20230520_20230520021617.zip
+        sha256: 06e9e7fd9610dc1f262d6995fabaef77578d6b1f9419d0b72f1509b79a322534
         strip-components: 2
         x-checker-data:
           type: html
