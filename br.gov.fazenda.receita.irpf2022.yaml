@@ -87,7 +87,7 @@ modules:
       - type: file
         path: br.gov.fazenda.receita.irpf2022.desktop
       - type: file
-        path: icons/icon-256.png
+        path: icon-256.png
       - type: extra-data
         filename: irpf.zip
         url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/arquivos/IRPF2022-2.1.zip
