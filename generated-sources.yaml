@@ -14,9 +14,9 @@
 
   - type: extra-data
     filename: BANCO.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BANCO__20250211_20250211021620.zip
-    size: 824
-    sha256: b2f7dd622fd3f6c762980d497fef3d21c0c6740d87f244a16a8efefb75740a7e
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BANCO__20250212_20250212021647.zip
+    size: 805
+    sha256: 85ba453eb76db44d1691fff5370dbcdedb2c8b3673c96c2651ea426c638cd93c
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/latest.xml
@@ -25,9 +25,9 @@
 
   - type: extra-data
     filename: BBENS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BBENS__20250211_20250211021620.zip
-    size: 6802
-    sha256: 4514f47aa1b7cdf6133900f06e489f09768f292df2919dc3fe91c16cfb32938a
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/BBENS__20250212_20250212021647.zip
+    size: 6800
+    sha256: a557789cfd21bd7e86afbdff79fb548fef483ef3c1bcb11f279c2926e9984973
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/latest.xml
