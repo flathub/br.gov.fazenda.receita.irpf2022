@@ -91,9 +91,9 @@ modules:
         path: icon-256.png
       - type: extra-data
         filename: irpf.zip
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/arquivos/IRPF2022-2.2.zip
-        sha256: f069777c149cd3c780c002e3c31fa099431465cb54ee1431872384d430cb8c77
-        size: 50031350
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/arquivos/IRPF2022-2.3.zip
+        sha256: 6a50be7833936ee843a88cdc5c0769031cbe2d35b37ae0b7b780b30db8683c79
+        size: 49876668
         x-checker-data:
           type: html
           url: https://downloadirpf.receita.fazenda.gov.br/irpf/2022/irpf/update/latest.xml
